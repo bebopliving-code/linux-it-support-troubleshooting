@@ -33,10 +33,10 @@ Each incident follows a structured troubleshooting workflow:
 
 ## Repository Structure
 
--Baseline/ -  Environment setup and system baseline
--incidents/ - incident write-ups
--screenshots/ - Terminal screenshots for verification
--scripts/ - Supporting scripts
+- Baseline -  Environment setup and system baseline
+- incidents - incident write-ups
+- screenshots - Terminal screenshots for verification
+- scripts - Supporting scripts
 
 
 ## Notes
