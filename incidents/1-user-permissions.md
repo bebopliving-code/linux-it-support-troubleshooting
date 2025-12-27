@@ -20,7 +20,8 @@ See screenshot: ![User permission denied](../screenshots/01-user-permission-deni
 - Confirmed the directory existed and was owned by the correct user
 - Identified that write permissions were missing on `/home/testuser`
 
-See screenshot: screenshots/incident-1-permissions/02-diagnosis-home-permissions.png
+See screenshot:[View screenshot](../screenshots/01-user-permission-denied.png)
+
 
 ---
 
@@ -33,7 +34,8 @@ Home directory permissions for `testuser` were misconfigured, removing write acc
 - Restored secure owner-only permissions on the user's home directory using `chmod 700`
 - No ownership or additional permission changes were required
 
-See screenshot: screenshots/incident-1-permissions/03-fix-permissions-restored.png
+See screenshot: [View screenshot](../screenshots/01-user-permission-denied.png)
+
 
 ---
 
@@ -42,7 +44,8 @@ See screenshot: screenshots/incident-1-permissions/03-fix-permissions-restored.p
 - Successfully created files in the home directory
 - Confirmed normal user functionality was restored
 
-See screenshot: screenshots/incident-1-permissions/04-verification-user-success.png
+See screenshot: [View screenshot](../screenshots/01-user-permission-denied.png)
+
 
 ---
 
