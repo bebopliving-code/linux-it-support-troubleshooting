@@ -10,7 +10,8 @@ The user reported that they could log in successfully but were unable to create 
 - Attempted to create a file in the home directory
 - Confirmed the error occurred as reported
 
-See screenshot: screenshots/01-user-permission-denied.png.png
+See screenshot: ![User permission denied](../screenshots/01-user-permission-denied.png)
+
 
 ---
 
