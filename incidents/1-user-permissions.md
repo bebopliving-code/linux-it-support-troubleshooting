@@ -10,7 +10,7 @@ The user reported that they could log in successfully but were unable to create 
 - Attempted to create a file in the home directory
 - Confirmed the error occurred as reported
 
-See screenshot: ![User permission denied](../screenshots/01-user-permission-denied.png.png)
+See screenshot:   ![User permission denied](../screenshots/01-user-permission-denied.png.png)
 
 
 ---
@@ -20,7 +20,7 @@ See screenshot: ![User permission denied](../screenshots/01-user-permission-deni
 - Confirmed the directory existed and was owned by the correct user
 - Identified that write permissions were missing on `/home/testuser`
 
-See screenshot:![View screenshot](../screenshots/02-diagnosis-home-permissions.png.png)
+See screenshot:  ![View screenshot](../screenshots/02-diagnosis-home-permissions.png.png)
 
 
 ---
@@ -34,7 +34,7 @@ Home directory permissions for `testuser` were misconfigured, removing write acc
 - Restored secure owner-only permissions on the user's home directory using `chmod 700`
 - No ownership or additional permission changes were required
 
-See screenshot: ![View screenshot](../screenshots/03-fix-permissions-restored.png.png)
+See screenshot:   ![View screenshot](../screenshots/03-fix-permissions-restored.png.png)
 
 
 ---
@@ -44,7 +44,7 @@ See screenshot: ![View screenshot](../screenshots/03-fix-permissions-restored.pn
 - Successfully created files in the home directory
 - Confirmed normal user functionality was restored
 
-See screenshot: ![View screenshot](../screenshots/04-verification-user-success.png.png)
+See screenshot:   ![View screenshot](../screenshots/04-verification-user-success.png.png)
 
 
 ---
