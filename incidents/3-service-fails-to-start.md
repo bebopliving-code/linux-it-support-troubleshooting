@@ -17,7 +17,7 @@ Reviewed the service state and logs to determine whether the issue was caused by
 The service was found to be administratively masked, which prevents it from starting regardless of health.
 Logs showed no fatal errors or crash loops.
 
-![Cron service diagnosis showing masked state and clean logs](../screenshots/10-cron-diagnosis-masked.png)
+![Cron service diagnosis showing masked state and clean logs](../screenshots/10-cron-diagnosis-masked-no-errors.png)
 
 ---
 
