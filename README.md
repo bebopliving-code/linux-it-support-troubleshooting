@@ -28,8 +28,6 @@ Each incident follows a structured troubleshooting workflow:
 6. Verification
 7. Lessons learned
 
-### Completed Incidents
-- Incident 1: User permission issue preventing file creation in home directory
 
 ## Repository Structure
 
@@ -41,5 +39,5 @@ Each incident follows a structured troubleshooting workflow:
 
 ## Notes
 - This project is intentionally minimal and iterative.
-- Additional incidents will be added over time to reflect continued skill development.
+  
 
